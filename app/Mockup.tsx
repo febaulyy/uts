@@ -7,7 +7,7 @@ const Mockup: React.FC = () => {
   return (
     <div className="flex h-screen">
       {/* Bagian Kiri: Konten Teks */}
-      <section className="flex-1 bg-gray-50 flex items-center justify-center px-8">
+      <section className="flex-1 bg-white flex items-center justify-center px-8">
         <div className="max-w-lg">
           <h1 className="text-4xl font-bold text-gray-800 leading-snug">
             Chats for your distributed teams

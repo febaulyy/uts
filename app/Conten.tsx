@@ -16,7 +16,7 @@ const Conten: React.FC = () => {
       </section>
 
       {/* Bagian Kanan: Teks */}
-      <section className="flex-1 flex flex-col justify-center">
+      <section className="bg-white flex-1 flex flex-col justify-center">
         <div className="pl-40 max-w-lg">
           <h1 className="text-4xl font-bold text-gray-900 leading-snug">
             Chats for your distributed teams
