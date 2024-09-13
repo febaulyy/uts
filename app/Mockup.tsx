@@ -5,7 +5,7 @@ import { FiArrowRight } from "react-icons/fi"; // Ikon panah kanan untuk link "L
 
 const Mockup: React.FC = () => {
   return (
-    <div className="flex h-screen">
+    <div className="flex h-screen bg-white"> {/* Ubah background menjadi putih di sini */}
       {/* Bagian Kiri: Konten Teks */}
       <section className="flex-1 bg-white flex items-center justify-center px-8">
         <div className="max-w-lg">
