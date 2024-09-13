@@ -7,9 +7,10 @@ import Conten1 from './Conten1';
 import Conten2 from './Conten2';
 import ReviewSection from './Riview';
 import Footer from './Footer';
+import './global.css';
 const Home: React.FC = () => {
   return (
-    <div>
+    <div className='bg-white'>
       <Navbar/>
       <Hero/>
       <Mockup/>
