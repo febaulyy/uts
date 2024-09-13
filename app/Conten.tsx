@@ -5,7 +5,7 @@ import { FiArrowRight } from "react-icons/fi"; // Ikon panah untuk link "Learn m
 
 const Conten: React.FC = () => {
   return (
-    <div className="flex flex-col lg:flex-row items-center justify-center h-screen px-8 lg:px-16">
+    <div className="flex bg-white flex-col lg:flex-row items-center justify-center h-screen px-8 lg:px-16">
       {/* Bagian Kiri: Gambar */}
       <section className="flex-1 flex justify-center items-center mb-8 lg:mb-0">
         <img
